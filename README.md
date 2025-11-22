@@ -59,7 +59,7 @@ To interact with this AI Instructor:
 
 ## Contact Us
 
-For questions, you can [contact the repo author](mailto:huynhquynhanh2003@gmail.com).
+For questions, you can [contact the repo author](mailto:mdroushanalam.ai@gmail.com).
 
 
 ## Contributing
